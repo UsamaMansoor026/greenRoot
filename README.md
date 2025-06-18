@@ -4,7 +4,7 @@ GreenRoot is a beautifully designed, responsive landing page website created to 
 
 ## 🌍 Live Demo
 
-🔗 [View Website Live](https://your-live-site-link.com)
+🔗 [View Website Live](https://usamamansoor026.github.io/greenRoot/)
 
 ## 📸 Preview
 
@@ -29,6 +29,7 @@ GreenRoot is a beautifully designed, responsive landing page website created to 
 
 - **HTML5**
 - **CSS3**
+- **JavaScript**
 - 💡 CSS Variables for theme consistency
 - 📱 Responsive design with media queries
 - ☁️ Unsplash images for high-quality backgrounds
